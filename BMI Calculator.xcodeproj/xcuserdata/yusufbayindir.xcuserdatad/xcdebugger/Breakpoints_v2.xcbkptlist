@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "478D120C-9F64-4E34-85A7-DF0623E84E78"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CFCFD6B-AAB4-46AF-B3A2-473A8D10D0F4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IBM Calculator/Controller/ResultViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "2CFCFD6B-AAB4-46AF-B3A2-473A8D10D0F4 - 1372c9371e1868a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IBM_Calculator.ResultViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; IBM_Calculator.ResultViewController"
+                  moduleName = "IBM Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yusufbayindir/Desktop/swift/IBM%20Calculator/IBM%20Calculator/Controller/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "2CFCFD6B-AAB4-46AF-B3A2-473A8D10D0F4 - b210809ddffccb42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IBM_Calculator.ResultViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; IBM_Calculator.ResultViewController"
+                  moduleName = "IBM Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yusufbayindir/Desktop/swift/IBM%20Calculator/IBM%20Calculator/Controller/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "2CFCFD6B-AAB4-46AF-B3A2-473A8D10D0F4 - d7bef9dd0027180a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IBM_Calculator.ResultViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;IBM_Calculator.ResultViewController&gt;"
+                  moduleName = "IBM Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yusufbayindir/Desktop/swift/IBM%20Calculator/IBM%20Calculator/Controller/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "2CFCFD6B-AAB4-46AF-B3A2-473A8D10D0F4 - 3130f7855cf7129a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IBM_Calculator.ResultViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;IBM_Calculator.ResultViewController&gt;"
+                  moduleName = "IBM Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yusufbayindir/Desktop/swift/IBM%20Calculator/IBM%20Calculator/Controller/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "2CFCFD6B-AAB4-46AF-B3A2-473A8D10D0F4 - 83edab1bdc83f297"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IBM_Calculator.ResultViewController.__deallocating_deinit"
+                  moduleName = "IBM Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yusufbayindir/Desktop/swift/IBM%20Calculator/IBM%20Calculator/Controller/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
